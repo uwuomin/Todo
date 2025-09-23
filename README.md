@@ -8,10 +8,11 @@
 
 ### Необходимые условия
 
-Что нужно для установки программного обеспечения и как его установить
+Еужно установть программу VisualStudio
+Иметь операционную систему Windows
 
 ```
-Предоставьте примеры
+
 ```
 
 ### Установка
@@ -21,7 +22,7 @@
 Скажи, какой будет шаг
 
 ```
-Приведи пример
+
 ```
 
 И повтори
@@ -34,6 +35,5 @@
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Романова Ольга**
+* **Лукашина Юлия**
