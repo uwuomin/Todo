@@ -10,4 +10,3 @@ namespace Desktop
     {
     }
 }
-гшггншгшгршрг
